@@ -1,0 +1,134 @@
+.left{
+    width: 4%;
+    height: 700px;
+    background: white;
+}
+.body{
+    width: 100%;
+    float: left;
+    margin-left: 4%;
+    margin-top: -700px;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background: white;
+    
+}
+.middle{
+    width: 100%;
+    height: 600px;
+    background: rgb(247, 247, 225);
+}
+div{
+    display: block;
+    margin: 0px;
+}
+.search{
+    width: 600px;
+    height: 26px;
+    font-size: large;
+}
+.for{
+    margin-left: 270px;
+    margin-top: -29px;
+    border-color: thistle;
+}
+.but{
+    height: 32px;
+    color:darkslategrey 
+}
+.middle{
+    padding: 26px;
+    font-size: 22px;
+    line-height: 30px;
+    font-family: "YT Sans", Roboto, Arial, sans-serif;
+    font-weight: 400;
+}
+.getbut{
+    width: 100px;
+    height: 40px;
+    border-style: solid;
+    border-color: black;
+    border-width:1px ;
+    font-weight: bold;
+    
+}
+.first{
+padding-left: 3px;
+padding-top: 70px;
+}
+#play{
+    size: 20px;
+    font-size: xx-large;
+    padding-left: 3px;
+    color: red;
+}
+.you{
+    padding-left: 34px;
+    color: rgb(24, 22, 20);
+    position: absolute;
+    top: -31px;
+    font-size:x-large
+}
+#home{
+    color: red;
+    font-size: x-large;
+    margin-top: 90px;
+    padding-left: 9px;
+}
+#fire{
+    color: gray;
+    padding-left: 7px;
+    font-size: x-large;
+    margin-top: 20px;
+}
+#sub{
+    color: gray;
+    padding-left: 7px;
+    font-size: x-large;
+    margin-top: 20px;
+}
+.hom{
+    color: rgb(17, 16, 16);
+    font-size: small;  
+}
+.fir{
+    color: rgb(17, 16, 16);
+    font-size: small;
+}
+.su{
+    color: rgb(17, 16, 16);
+    font-size: small;
+}
+#plus{
+    padding-left: 1000px;
+    color: grey;
+    font-size: x-large;
+    margin-top: 20px;
+}
+#se{
+    font-size: x-large;
+    color: grey;
+}
+#th{
+    color: grey;
+    font-size: x-large;
+    margin-left: 18px;
+}
+#be{
+    color: grey;
+    font-size: x-large;
+    margin-left: 18px; 
+}
+.firs{
+    font-size: large;
+    float: left;
+    margin-left: 20px;
+}
+.firse{
+    float: left;
+    margin-left: 80px;
+    font-size: large;
+
+}
